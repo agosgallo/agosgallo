@@ -22,6 +22,14 @@
 </div>
 
 ###
+<div align="center">
+  <a href="www.linkedin.com/in/agostino-gallo-519839397" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+</div>
+
+
+###
 
 <img align="right" height="120" src="https://i.pinimg.com/originals/7c/f5/9a/7cf59ab5c823a731e4e69673b66914ae.gif"  />
 
